@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONProvider", "JSONProvide
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapper", "Mapper\Mapper.csproj", "{BCF21821-5C30-45CD-9BC2-24FE8B2F2850}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityBLLServiceTests", "EntityBLLServiceTests\EntityBLLServiceTests.csproj", "{0FED1FD9-0F10-4699-B2B3-07B38F76B33A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{BCF21821-5C30-45CD-9BC2-24FE8B2F2850}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCF21821-5C30-45CD-9BC2-24FE8B2F2850}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCF21821-5C30-45CD-9BC2-24FE8B2F2850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FED1FD9-0F10-4699-B2B3-07B38F76B33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FED1FD9-0F10-4699-B2B3-07B38F76B33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FED1FD9-0F10-4699-B2B3-07B38F76B33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FED1FD9-0F10-4699-B2B3-07B38F76B33A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

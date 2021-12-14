@@ -10,7 +10,7 @@ namespace EntityBLL
 {
     public class StudentEntityBLL : BaseEntityBLL
     {
-        private string course;
+        public string course;
         public string Course
         {
             get
